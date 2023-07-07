@@ -83,6 +83,11 @@ body {
   color: black;
 }
 
+::selection {
+  color: #fff;
+  background: #000;
+}
+
 ul {
   list-style: none;
 }
@@ -186,6 +191,12 @@ a:visited {
   color: white;
   font: 2.25em;
   font-weight: bold;
+}
+
+.apresentacao-title::selection,
+.apresentacao p::selection {
+  background: #fff;
+  color: #000;
 }
 
 .btn {
