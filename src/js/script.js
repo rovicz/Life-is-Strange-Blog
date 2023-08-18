@@ -1,6 +1,7 @@
 import initDropMenu from "./modules/dropDownMenu.js";
 
-initDropMenu();
+const dropbtn = document.querySelector(".dropbtn");
+dropbtn.addEventListener("click", initDropMenu);
 
 if (window.SimpleSlide) {
   new SimpleSlide({
