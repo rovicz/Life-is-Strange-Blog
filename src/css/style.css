@@ -217,7 +217,7 @@ a:visited {
 
 .apresentacao-title {
   font-size: 3.25em;
-  color: white;
+  color: #fff;
 }
 
 .apresentacao-title:after {
@@ -225,13 +225,13 @@ a:visited {
   display: block;
   width: 120px;
   height: 3px;
-  background-color: white;
+  background-color: #fff;
   margin: 0 auto;
   margin-bottom: 10px;
 }
 
 .apresentacao p {
-  color: white;
+  color: #fff;
   font: 2.25em;
   font-weight: bold;
 }
@@ -257,7 +257,7 @@ a:visited {
 }
 
 .btn a {
-  color: white;
+  color: #fff;
   font-family: "Dudu Calligraphy", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 1.25em;
@@ -304,7 +304,7 @@ a:visited {
 
 .about-text h1 {
   font-size: 2.25em;
-  color: black;
+  color: #000;
   margin-top: 60px;
 }
 
@@ -313,7 +313,7 @@ a:visited {
   display: block;
   width: 60px;
   height: 3px;
-  background-color: black;
+  background-color: #000;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -365,7 +365,7 @@ a:visited {
   display: block;
   width: 120px;
   height: 3px;
-  background-color: black;
+  background-color: #000;
   margin-top: -10px;
   margin-bottom: 20px;
 }
@@ -374,7 +374,7 @@ a:visited {
 .pcworld-reviewer {
   text-align: right;
   font-size: 1.25em;
-  color: black;
+  color: #000;
   font-weight: bold;
   cursor: pointer;
 }
@@ -446,7 +446,7 @@ a:visited {
   display: block;
   width: 60px;
   height: 3px;
-  background-color: black;
+  background-color: #000;
   margin-top: 10px;
 }
 
